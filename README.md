@@ -29,9 +29,9 @@ Como desafío extra te animamos a que dejes fluir tu creatividad, si puedo conve
 
 ![GrabacConversor](https://user-images.githubusercontent.com/71609876/222244789-b7e241f6-7c45-4f3f-94d4-988ca088fea7.gif)
 
-##Contactos
-:point_right: https://www.linkedin.com/in/iris628/
-:point_right: https://github.com/IrisArias
+## Contactos
+ :point_right: https://www.linkedin.com/in/iris628/   
+      :point_right: https://github.com/IrisArias
 
 ## Expresiones de Gratitud 🎁
 - Comenta a otros sobre este proyecto 
