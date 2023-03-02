@@ -30,8 +30,9 @@ Como desafío extra te animamos a que dejes fluir tu creatividad, si puedo conve
 ![GrabacConversor](https://user-images.githubusercontent.com/71609876/222244789-b7e241f6-7c45-4f3f-94d4-988ca088fea7.gif)
 
 ## Contactos
- :point_right: https://www.linkedin.com/in/iris628/   
-      :point_right: https://github.com/IrisArias
+<a href="https://www.linkedin.com/in/iris628/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>  
+
+<a href="https://github.com/IrisArias"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> 
 
 ## Expresiones de Gratitud 🎁
 - Marcame una estrella :star2:
