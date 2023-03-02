@@ -4,7 +4,7 @@ import javax.swing.JOptionPane;
 /**
  * @author Iris Arias
  * Mi linkedin:  https://www.linkedin.com/in/iris628/
- *
+ * Reto Alura One Oracle Next Education - G04 | 2023
  */
 public class Conversor {
 
