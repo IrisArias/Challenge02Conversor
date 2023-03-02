@@ -34,5 +34,6 @@ Como desafío extra te animamos a que dejes fluir tu creatividad, si puedo conve
       :point_right: https://github.com/IrisArias
 
 ## Expresiones de Gratitud 🎁
+- Marcame una estrella :star2:
 - Comenta a otros sobre este proyecto 
 - Invita a un café ☕ .btc:  ❤️   bc1q79el02e37zn7erp9dqyrlv4vzgdwv0jkuacg4y
